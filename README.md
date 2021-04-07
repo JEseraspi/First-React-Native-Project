@@ -1,2 +1,2 @@
 # First-React-Native-Project
-My first react-native app developed on March 2019
+My first react-native app developed 2018-2019
